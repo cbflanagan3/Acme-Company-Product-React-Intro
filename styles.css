@@ -1,0 +1,10 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-stretch: ultra-condensed;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 350px;
+}
